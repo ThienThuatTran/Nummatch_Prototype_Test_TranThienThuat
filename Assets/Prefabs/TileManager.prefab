@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &914899137525391864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 914899137525391366}
+  - component: {fileID: 914899137525391367}
+  m_Layer: 0
+  m_Name: TileManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &914899137525391366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914899137525391864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.181129, y: 3.0430548, z: -0.11078758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &914899137525391367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914899137525391864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4276ac499727c4b44abeb597d4381567, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberSprites:
+  - {fileID: 21300000, guid: 89e516d92e38a2846864e1622928d1e4, type: 3}
+  - {fileID: 21300000, guid: 5abc6819ff500f54b851c468f1b5b7b4, type: 3}
+  - {fileID: 21300000, guid: f894be14b275e9541908648e17abb9a2, type: 3}
+  - {fileID: 21300000, guid: 8619f77d7f6f0f3448da34442db155c9, type: 3}
+  - {fileID: 21300000, guid: 6a4684d8af9a5994ba257875bf31d140, type: 3}
+  - {fileID: 21300000, guid: 0895f923e65091c48a8fd1619d36d91d, type: 3}
+  - {fileID: 21300000, guid: ef89c07841cf8f44cbc7b714338ade22, type: 3}
+  - {fileID: 21300000, guid: 3d2ea3252787d1346a891e7e36bc5af2, type: 3}
+  - {fileID: 21300000, guid: a47d4dd58c680524db876275cf3f1724, type: 3}
